@@ -1,1 +1,1 @@
-# go12234WMIExec
+﻿# oWMIExec
